@@ -1,5 +1,5 @@
 <div align="center">
- ![craftify SS](https://github.com/shaikharyan/craftify/assets/103252725/b0096c00-a729-4ca1-baee-fdd27bef0b2a)
+
 
   <div>
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
