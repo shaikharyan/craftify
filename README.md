@@ -1,5 +1,6 @@
 <div align="center">
-<img src="craftify.png />
+
+<img src="https://github.com/shaikharyan/craftify/assets/103252725/7e3e04a4-6b5c-457a-ac43-eda24798cb95"/>
 
   <div>
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
